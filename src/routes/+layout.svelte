@@ -27,7 +27,7 @@
              
               
               
-                  <a class="nav-link" href="/momentos">recordações</a>
+                  <a class="nav-link" href="/momentos">recordaç2ões</a>
               
               
           </ul>
