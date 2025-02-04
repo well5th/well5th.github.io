@@ -14,4 +14,4 @@
 
 <p><img src="/favicon.png" alt="descrição textual da imagem" /></p>
 
-<p><a href="./">um link</a></p>
+<p><a href="/">um link</a></p>
