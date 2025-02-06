@@ -32,7 +32,7 @@
        }
        .letra {
        
-           color: #144fff ;
+           color: #000000 ;
            font-size:200px:
        }
 

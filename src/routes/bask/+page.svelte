@@ -1,3 +1,4 @@
+<br>
 <script>
     import CartaMagic from '$lib/components/CartaMagic.svelte';
     import { cards } from '$lib/data.js';
@@ -23,7 +24,7 @@
             height: 100vh;
         }
 
-       .batata2 {
+        .batata2 {
             background-color: rgba(9, 1, 1, 0.5);
             padding: 50px;
             border-radius: 30px;
@@ -44,12 +45,6 @@
 
         }
 
-
-
-        
-
-
-       
     </style>
 </body>
 
